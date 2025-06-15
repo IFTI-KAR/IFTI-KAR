@@ -5,35 +5,6 @@
 
 ---
 
-## ⏳ Full-Time Animation
-
-```css
-@keyframes fadeSlideIn {
-  0% {
-    opacity: 0;
-    transform: translateY(20px);
-  }
-  100% {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-.section {
-  animation: fadeSlideIn 1.2s ease-in-out forwards;
-  opacity: 0;
-}
-```
-
-```html
-<div class="section">
-  <!-- Your content here -->
-</div>
-```
-
-> 💡 Add the `section` class to any block or container element to give it a clean full-time fade-and-slide-in animation.
-
----
 
 ## 🧠 What I Know
 
