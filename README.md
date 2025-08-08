@@ -1,33 +1,88 @@
-<h1 align="center">Hi 👋, I'm Iftikar Rahaman</h1>
-<h3 align="center">A passionate frontend developer and a student from BRAC university Bangladesh</h3>
+<!-- Profile Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Iftikar+Rahaman!;Frontend+Developer+%7C+CS+Student+%7C+ML+Explorer;Welcome+to+my+GitHub+Universe+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ifti-kar&label=Profile%20views&color=0e75b6&style=flat" alt="ifti-kar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifti-kar" alt="ifti-kar" /></a> </p>
-
-- 🌱 I’m currently learning **ML,LLM and Backend**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/iftikar rahaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iftikar rahaman" height="30" width="40" /></a>
-<a href="https://fb.com/iftikar rahaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iftikar rahaman" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/IFTI-KAR/IFTI-KAR/assets/your-image-id/banner.png" alt="banner" width="100%"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h1 align="center">✨ Hey, I'm Iftikar Rahaman ✨</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifti-kar&show_icons=true&locale=en&layout=compact" alt="ifti-kar" /></p>
+<p align="center">
+  🌱 Learning ML, LLM, and Backend | 💻 Frontend Dev | 🎓 BRAC University<br>
+  🚀 I build creative UIs and efficient systems<br>
+  📬 Reach out if you love code, cats, or collaboration!
+</p>
 
+---
 
+## 🚀 About Me
 
-<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+- 👨‍🎓 CSE Undergrad @ BRAC University
+- 👨‍💻 Passionate about Web Dev, AI, Open Source
+- ⚙️ Always learning new tech to solve real-world problems
+- 🏆 Contributor to meaningful projects and communities
 
+---
 
+## 🔥 My GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IFTI-KAR&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IFTI-KAR&theme=radical" alt="Streak Stats" />
+</p>
 
+---
 
-<br clear="both">
+## 🧠 Tech Stack
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase,python,mysql,git,postman,aws,tensorflow" />
+</p>
 
-###
+---
+
+## 🛠️ Tools I Use
+
+- 💻 Code: VS Code, Git, GitHub, Netlify, Firebase Console
+- 📊 Data: Google Colab, Kaggle
+- 🎨 Design: Figma, Canva
+- 🔍 API Testing: Postman
+- 🧠 ML: TensorFlow, Scikit-learn, Python
+
+---
+
+## 🏗️ Featured Projects
+
+| Name | Tech | Description |
+|------|------|-------------|
+| [JobStack](https://github.com/IFTI-KAR/JobStack) | React, Firebase | Job board platform |
+| [Doctor Appointment](https://github.com/IFTI-KAR/Doctor-appointment) | React | Book doctors online |
+| [Dragon News](https://github.com/IFTI-KAR/Dragon-News-online-news-agency) | React | News platform |
+| [DEVBoard](https://github.com/IFTI-KAR/DevBoard) | React | Task management UI |
+| [Text to Speech](https://github.com/IFTI-KAR/Text_to_Speech) | Python | Converts text to speech |
+| [Live Crypto Price](https://github.com/IFTI-KAR/live-crypto-price) | React | Live crypto price tracker |
+
+👉 Explore all at [IFTI-KAR](https://github.com/IFTI-KAR)
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/iftikar-rahaman"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://fb.com/iftikar.rahaman"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 🐍 Snake Game Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" />
+</p>
+
+---
+
+> 🌟 *Thanks for stopping by! Star ⭐ your favorite projects and let’s connect!*
+
