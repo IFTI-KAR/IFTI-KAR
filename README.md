@@ -59,7 +59,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/iftikar-rahaman-115965256/" target="_blank">
+  <a href="[https://www.linkedin.com/in/iftikar-rahaman-115965256/](https://www.linkedin.com/in/iftikar-rahaman91/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/share/1CvrUiMG9y/" target="_blank">
