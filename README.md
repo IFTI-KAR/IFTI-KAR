@@ -41,19 +41,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Name | Tech Stack | Description |
-|------|------------|-------------|
-| [JobStack](https://github.com/IFTI-KAR/JobStack) | React, Tailwind, Firebase | Modern job board with auth |
-| [Doctor Appointment](https://github.com/IFTI-KAR/Doctor-appointment) | React | Doctor booking UI |
-| [Dragon News](https://github.com/IFTI-KAR/Dragon-News-online-news-agency) | React, Auth | Category-based news portal |
-| [DEVBoard](https://github.com/IFTI-KAR/DevBoard) | React | Task board UI |
-| [Text to Speech](https://github.com/IFTI-KAR/Text_to_Speech) | Python | Speak text out loud |
-| [Live Crypto Price](https://github.com/IFTI-KAR/live-crypto-price) | React, API | Live crypto prices |
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
