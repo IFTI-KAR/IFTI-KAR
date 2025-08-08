@@ -38,7 +38,7 @@
 ## 🧠 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,firebase,python,tensorflow,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,firebase,python,tensorflow,git,github,postman" />
 </p>
 
 ---
