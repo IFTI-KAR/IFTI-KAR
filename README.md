@@ -5,7 +5,7 @@
 
 <!-- Header -->
 <h1 align="center">🚀 Iftikar Rahaman 🚀</h1>
-<h3 align="center">Frontend Developer | ML Explorer | BRAC University 🇧🇩</h3>
+<h3 align="center">  Frontend Developer | ML Explorer | BRAC University 🇧🇩</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IFTI-KAR&label=Profile%20views&color=blueviolet&style=flat" alt="IFTI-KAR" />
