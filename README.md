@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="IFTI-KAR/Free Universe Stars Video Gif Animated Zoom Virtual Background.png" alt="Banner" />
+  <img src="Free Universe Stars Video Gif Animated Zoom Virtual Background.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Iftikar Rahaman 👋</h1>
