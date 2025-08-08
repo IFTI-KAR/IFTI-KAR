@@ -8,9 +8,7 @@
 </p>
 <img src='https://www.canva.com/design/DAGvdmzwpkk/mKMTVXU1pRc2278EiNU2xQ/edit?utm_content=DAGvdmzwpkk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'>
 <!-- Profile Image (Optional) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" />
-</p>
+
 
 <!-- Header -->
 <h1 align="center">🚀 Iftikar Rahaman 🚀</h1>
