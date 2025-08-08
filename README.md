@@ -1,11 +1,16 @@
-<!-- Typing SVG -->
+<!-- Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Iftikar+Rahaman!;Frontend+Dev+%7C+CS+Student+%7C+ML+Explorer;Welcome+to+my+GitHub+Universe+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
+<!-- Profile Image (Optional) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" />
+</p>
+
 <!-- Header -->
 <h1 align="center">🚀 Iftikar Rahaman 🚀</h1>
-<h3 align="center">  Frontend Developer | ML Explorer | BRAC University 🇧🇩</h3>
+<h3 align="center">Frontend Developer | ML Explorer | BRAC University 🇧🇩</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IFTI-KAR&label=Profile%20views&color=blueviolet&style=flat" alt="IFTI-KAR" />
@@ -60,12 +65,12 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🎯 Bonus Animation (Modern)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Dream.+Build.+Code.;Make+Impact+with+Tech.;Open+Source+Forever+%F0%9F%9A%80" />
 </p>
 
 ---
 
-> 🌟 *Thanks for visiting! Drop a ⭐ on any project you like!*
+> 🌟 *Thanks for stopping by! Drop a ⭐ on any project you like!*
