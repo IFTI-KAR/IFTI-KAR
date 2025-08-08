@@ -1,88 +1,71 @@
-<!-- Profile Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Iftikar+Rahaman!;Frontend+Developer+%7C+CS+Student+%7C+ML+Explorer;Welcome+to+my+GitHub+Universe+%F0%9F%9A%80" alt="Typing SVG" />
-
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://github.com/IFTI-KAR/IFTI-KAR/assets/your-image-id/banner.png" alt="banner" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Iftikar+Rahaman!;Frontend+Dev+%7C+CS+Student+%7C+ML+Explorer;Welcome+to+my+GitHub+Universe+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<h1 align="center">✨ Hey, I'm Iftikar Rahaman ✨</h1>
+<!-- Header -->
+<h1 align="center">🚀 Iftikar Rahaman 🚀</h1>
+<h3 align="center">Frontend Developer | ML Explorer | BRAC University 🇧🇩</h3>
 
 <p align="center">
-  🌱 Learning ML, LLM, and Backend | 💻 Frontend Dev | 🎓 BRAC University<br>
-  🚀 I build creative UIs and efficient systems<br>
-  📬 Reach out if you love code, cats, or collaboration!
-</p>
-
----
-
-## 🚀 About Me
-
-- 👨‍🎓 CSE Undergrad @ BRAC University
-- 👨‍💻 Passionate about Web Dev, AI, Open Source
-- ⚙️ Always learning new tech to solve real-world problems
-- 🏆 Contributor to meaningful projects and communities
-
----
-
-## 🔥 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IFTI-KAR&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IFTI-KAR&theme=radical" alt="Streak Stats" />
+  <img src="https://komarev.com/ghpvc/?username=IFTI-KAR&label=Profile%20views&color=blueviolet&style=flat" alt="IFTI-KAR" />
 </p>
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase,python,mysql,git,postman,aws,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,express,mongodb,mysql,firebase,python,tensorflow,git,github,postman,vscode" />
 </p>
 
 ---
 
-## 🛠️ Tools I Use
-
-- 💻 Code: VS Code, Git, GitHub, Netlify, Firebase Console
-- 📊 Data: Google Colab, Kaggle
-- 🎨 Design: Figma, Canva
-- 🔍 API Testing: Postman
-- 🧠 ML: TensorFlow, Scikit-learn, Python
-
----
-
-## 🏗️ Featured Projects
-
-| Name | Tech | Description |
-|------|------|-------------|
-| [JobStack](https://github.com/IFTI-KAR/JobStack) | React, Firebase | Job board platform |
-| [Doctor Appointment](https://github.com/IFTI-KAR/Doctor-appointment) | React | Book doctors online |
-| [Dragon News](https://github.com/IFTI-KAR/Dragon-News-online-news-agency) | React | News platform |
-| [DEVBoard](https://github.com/IFTI-KAR/DevBoard) | React | Task management UI |
-| [Text to Speech](https://github.com/IFTI-KAR/Text_to_Speech) | Python | Converts text to speech |
-| [Live Crypto Price](https://github.com/IFTI-KAR/live-crypto-price) | React | Live crypto price tracker |
-
-👉 Explore all at [IFTI-KAR](https://github.com/IFTI-KAR)
-
----
-
-## 📫 Let's Connect
+## 🔥 GitHub Stats
 
 <p align="center">
-  <a href="https://linkedin.com/in/iftikar-rahaman"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://fb.com/iftikar.rahaman"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=IFTI-KAR&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://streak-stats.demolab.com?user=IFTI-KAR&theme=tokyonight" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IFTI-KAR&layout=compact&theme=tokyonight" width="40%" />
 </p>
 
 ---
 
-## 🐍 Snake Game Contribution Graph
+## 🚀 Featured Projects
+
+| Name | Tech Stack | Description |
+|------|------------|-------------|
+| [JobStack](https://github.com/IFTI-KAR/JobStack) | React, Tailwind, Firebase | Modern job board with auth |
+| [Doctor Appointment](https://github.com/IFTI-KAR/Doctor-appointment) | React | Doctor booking UI |
+| [Dragon News](https://github.com/IFTI-KAR/Dragon-News-online-news-agency) | React, Auth | Category-based news portal |
+| [DEVBoard](https://github.com/IFTI-KAR/DevBoard) | React | Task board UI |
+| [Text to Speech](https://github.com/IFTI-KAR/Text_to_Speech) | Python | Speak text out loud |
+| [Live Crypto Price](https://github.com/IFTI-KAR/live-crypto-price) | React, API | Live crypto prices |
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" />
+  <a href="https://www.linkedin.com/in/iftikar-rahaman-115965256/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/1CvrUiMG9y/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-> 🌟 *Thanks for stopping by! Star ⭐ your favorite projects and let’s connect!*
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+> 🌟 *Thanks for visiting! Drop a ⭐ on any project you like!*
