@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Iftikar+Rahaman!;Frontend+Dev+%7C+CS+Student+%7C+ML+Explorer;Welcome+to+my+GitHub+Universe+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<h1 align="center">🚀 Iftikar Rahaman 🚀</h1>
+
 <h3 align="center">Frontend Developer | ML Explorer | BRAC University 🇧🇩</h3>
 
 <p align="center">
