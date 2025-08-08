@@ -15,28 +15,8 @@
 
 ---
 
-## 🔥 Featured Projects
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iftikarrahman&theme=dark)](https://git.io/streak-stats)
 
-Here are some projects I've worked on. Most are hosted on GitHub — feel free to explore:
-
-| Project                                                                                               | Description                                                                       |
-| ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| [JobStack](https://github.com/IFTI-KAR/JobStack)                                                      | A modern job board built with React, Tailwind, Firebase Auth, and dynamic routing |
-| [Doctor Appointment](https://github.com/IFTI-KAR/Doctor-appointment)                                  | React app for booking doctor appointments with a sleek UI                         |
-| [Dragon News](https://github.com/IFTI-KAR/Dragon-News-online-news-agency)                             | Online news portal using authentication and category-based browsing               |
-| [Book-worm](https://github.com/IFTI-KAR/Book-worm)                                                    | React app to explore books by categories and titles                               |
-| [MyTube](https://github.com/IFTI-KAR/MyTube)                                                          | YouTube-like video UI project with routing                                        |
-| [Age Calculator](https://github.com/IFTI-KAR/Age-Calculator)                                          | Simple utility app to calculate age from input                                    |
-| [DEVBoard](https://github.com/IFTI-KAR/DevBoard)                                                      | Task Management Board UI built with React                                         |
-| [pet-shop](https://github.com/IFTI-KAR/pet-shop)                                                      | A pet e-commerce site layout                                                      |
-| [nature-platter](https://github.com/IFTI-KAR/nature-platter)                                          | Website concept for nature lovers and eco-friendly goods                          |
-| [Kids Education Platform](https://github.com/IFTI-KAR/Kid-s-Education-platform--a-responsive-webpage) | Responsive educational website for kids                                           |
-| [GS Architecture Website](https://github.com/IFTI-KAR/GS-architecture-Responsive-website)             | Responsive UI for an architecture firm                                            |
-| [Qr-code-generator](https://github.com/IFTI-KAR/Qr-code-generator)                                    | Python & GUI based QR code generator                                              |
-| [Live Crypto Price](https://github.com/IFTI-KAR/live-crypto-price)                                    | Shows live cryptocurrency prices using API                                        |
-| [Text to Speech](https://github.com/IFTI-KAR/Text_to_Speech)                                          | Converts text input to spoken words using Python                                  |
-
-> 💡 Check out more projects on my GitHub profile!
 
 ---
 
