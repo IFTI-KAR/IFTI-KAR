@@ -15,7 +15,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iftikarrahman&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IFTI-KAR&theme=dark)](https://git.io/streak-stats)
 
 
 ---
