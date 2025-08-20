@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Free+Universe+Stars+Video+Gif+Animated+Zoom+Virtual+Background (4).gif" alt="Banner" />
+  <img src="Free+Universe+Stars+Video+Gif+Animated+Zoom+Virtual+Background (3).gif" alt="Banner" />
 </p>
 
 <!-- Typing Header -->
