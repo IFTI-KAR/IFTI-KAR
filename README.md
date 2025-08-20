@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Free Universe Stars Video Gif Animated Zoom Virtual Background.png" alt="Banner" />
+  <img src="Free Universe Stars Video Gif Animated Zoom Virtual Background.mp4" alt="Banner" />
 </p>
 
 <!-- Typing Header -->
