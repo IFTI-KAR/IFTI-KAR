@@ -1,4 +1,4 @@
-<svg width="760" height="380" viewBox="0 0 760 380" xmlns="http://www.w3.org/2000/svg">
+<svg width="760" height="400" viewBox="0 0 760 400" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
       .bg { fill: #0d1117; }
@@ -10,8 +10,8 @@
     </style>
   </defs>
 
-  <rect class="bg" width="760" height="380" rx="10"/>
-  <rect class="win" x="8" y="8" width="744" height="364" rx="8"/>
+  <rect class="bg" width="760" height="400" rx="10"/>
+  <rect class="win" x="8" y="8" width="744" height="384" rx="8"/>
 
   <circle r="6" cx="30" cy="28" fill="#ff5f56"/>
   <circle r="6" cx="50" cy="28" fill="#ffbd2e"/>
@@ -35,7 +35,7 @@
     <text x="0" y="0"  class="label">name</text>       <text x="140" y="0"  class="val">Ifti Kar</text>
     <text x="0" y="25" class="label">role</text>       <text x="140" y="25" class="val">MERN Stack Developer</text>
     <text x="0" y="50" class="label">origin</text>     <text x="140" y="50" class="val">Dhaka, Bangladesh</text>
-    <text x="0" y="75" class="label">education</text>  <text x="140" y="75" class="val">BRAC University, CS</text>
+    <text x="0" y="75" class="label">education</text>  <text x="140" y="75" class="val">BRAC University, CSE</text>
     <text x="0" y="100" class="label">status</text>    <text x="140" y="100" class="val">Building + Learning ML</text>
     <text x="0" y="125" class="label">stack</text>     <text x="140" y="125" class="val">React, Node, Next.js, Mongo</text>
 
@@ -46,6 +46,4 @@
     <text x="0" y="220" class="val">linkedin</text> <text x="140" y="220" class="val">/in/iftikar-rahaman91</text>
     <text x="0" y="245" class="val">github</text>   <text x="140" y="245" class="val">github.com/IFTI-KAR</text>
   </g>
-
-  <text x="30" y="355" class="field" fill="#565f89">projects listed below in resume ~]</text>
 </svg>
