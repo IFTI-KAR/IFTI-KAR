@@ -38,12 +38,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IFTI-KAR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IFTI-KAR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://streak-stats.demolab.com?user=IFTI-KAR&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IFTI-KAR&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IFTI-KAR&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -59,15 +59,15 @@
 
 <p align="center">
   <a href="https://github.com/IFTI-KAR/BRAC-University-Thesis-Portal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IFTI-KAR&repo=BRAC-University-Thesis-Portal&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=IFTI-KAR&repo=BRAC-University-Thesis-Portal&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/IFTI-KAR/Fitness_Tracker_Client_Server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IFTI-KAR&repo=Fitness_Tracker_Client_Server&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=IFTI-KAR&repo=Fitness_Tracker_Client_Server&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/IFTI-KAR/Blogar-a-blog-site-client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IFTI-KAR&repo=Blogar-a-blog-site-client&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=IFTI-KAR&repo=Blogar-a-blog-site-client&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
