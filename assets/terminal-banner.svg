@@ -1,0 +1,51 @@
+<svg width="760" height="380" viewBox="0 0 760 380" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .win { fill: #0d1117; stroke: #7f5af0; stroke-width: 1.5; }
+      .field { font-family: 'Courier New', monospace; font-size: 13px; fill: #a9b1d6; }
+      .label { font-family: 'Courier New', monospace; font-size: 13px; fill: #7f5af0; font-weight: bold; }
+      .val { font-family: 'Courier New', monospace; font-size: 13px; fill: #c9d1d9; }
+      .artdot { fill: #a78bfa; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="760" height="380" rx="10"/>
+  <rect class="win" x="8" y="8" width="744" height="364" rx="8"/>
+
+  <circle r="6" cx="30" cy="28" fill="#ff5f56"/>
+  <circle r="6" cx="50" cy="28" fill="#ffbd2e"/>
+  <circle r="6" cx="70" cy="28" fill="#27c93f"/>
+  <text x="380" y="33" text-anchor="middle" class="field" fill="#8b949e">ifti@github: ~</text>
+
+  <g transform="translate(50,70)">
+    <rect x="0"  y="0"  width="14" height="14" fill="#7f5af0"/>
+    <rect x="18" y="0"  width="14" height="14" fill="#a78bfa"/>
+    <rect x="0"  y="18" width="14" height="14" fill="#a78bfa"/>
+    <rect x="18" y="18" width="14" height="14" fill="#7f5af0"/>
+    <rect x="0"  y="36" width="14" height="14" fill="#7f5af0"/>
+    <rect x="18" y="36" width="14" height="14" fill="#a78bfa"/>
+    <rect x="0"  y="54" width="14" height="14" fill="#a78bfa"/>
+    <rect x="18" y="54" width="14" height="14" fill="#7f5af0"/>
+  </g>
+
+  <text x="180" y="75" class="label">System</text>
+
+  <g transform="translate(180,105)">
+    <text x="0" y="0"  class="label">name</text>       <text x="140" y="0"  class="val">Ifti Kar</text>
+    <text x="0" y="25" class="label">role</text>       <text x="140" y="25" class="val">MERN Stack Developer</text>
+    <text x="0" y="50" class="label">origin</text>     <text x="140" y="50" class="val">Dhaka, Bangladesh</text>
+    <text x="0" y="75" class="label">education</text>  <text x="140" y="75" class="val">BRAC University, CS</text>
+    <text x="0" y="100" class="label">status</text>    <text x="140" y="100" class="val">Building + Learning ML</text>
+    <text x="0" y="125" class="label">stack</text>     <text x="140" y="125" class="val">React, Node, Next.js, Mongo</text>
+
+    <line x1="0" y1="145" x2="500" y2="145" stroke="#30363d" stroke-width="1"/>
+
+    <text x="0" y="170" class="label">contact</text>
+    <text x="0" y="195" class="val">mail</text>     <text x="140" y="195" class="val">ifti366127@gmail.com</text>
+    <text x="0" y="220" class="val">linkedin</text> <text x="140" y="220" class="val">/in/iftikar-rahaman91</text>
+    <text x="0" y="245" class="val">github</text>   <text x="140" y="245" class="val">github.com/IFTI-KAR</text>
+  </g>
+
+  <text x="30" y="355" class="field" fill="#565f89">projects listed below in resume ~]</text>
+</svg>
