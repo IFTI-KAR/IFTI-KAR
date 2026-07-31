@@ -58,8 +58,6 @@
 
 ### 📌 Pinned Projects
 
-> Pin these from your GitHub profile settings so they show as cards automatically —
-> the README badges below are optional extra highlights.
 
 <p align="center">
   <a href="https://github.com/IFTI-KAR/BRAC-University-Thesis-Portal">
