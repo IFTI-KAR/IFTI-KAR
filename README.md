@@ -58,11 +58,16 @@
 > the README badges below are optional extra highlights.
 
 <p align="center">
-  <a href="https://github.com/IFTI-KAR?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IFTI-KAR&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/IFTI-KAR/BRAC-University-Thesis-Portal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IFTI-KAR&repo=BRAC-University-Thesis-Portal&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/IFTI-KAR?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IFTI-KAR&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/IFTI-KAR/Fitness_Tracker_Client_Server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IFTI-KAR&repo=Fitness_Tracker_Client_Server&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/IFTI-KAR/Blogar-a-blog-site-client">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IFTI-KAR&repo=Blogar-a-blog-site-client&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
