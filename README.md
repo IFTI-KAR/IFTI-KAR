@@ -7,6 +7,10 @@
 </div>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/IFTI-KAR/IFTI-KAR/main/assets/terminal-banner.svg" alt="terminal banner" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/IFTI-KAR/IFTI-KAR/output/snake.svg" alt="snake animation" />
 </p>
 
