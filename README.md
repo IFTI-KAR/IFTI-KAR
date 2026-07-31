@@ -21,8 +21,8 @@
 ### 🧠 About Me
 
 - 🎓 Student — Computer Science
-- 💻 Flutter Developer & ML Learner
-- 🔭 Currently building projects in Flutter, ML, and Compiler Design
+- 💻 MERN STACK Developer & ML Learner
+- 🔭 Currently building projects in NEXTJS, ML, and Compiler Design
 - ⚡ Fun fact: I like turning ideas into working apps overnight
 
 ---
