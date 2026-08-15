@@ -1,9 +1,7 @@
 <div align="center">
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ifti+%F0%9F%91%8B;MERN+Stack+Developer;ML+Learner;Tech+Nerd" alt="Typing SVG" />
 </a>
-
 </div>
 
 <p align="center">
@@ -23,7 +21,6 @@
 ---
 
 ### 🧠 About Me
-
 - 🎓 Student — Computer Science
 - 💻 MERN Stack Developer & ML Learner
 - 🔭 Currently building projects in Next.js, ML, and Compiler Design
@@ -31,16 +28,34 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,js,ts,python,cpp,tensorflow,git,github,vscode,figma" />
+**Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />
+</p>
+
+**Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,py" />
+</p>
+
+**Programming & DSA**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,py" />
+</p>
+
+**ML / AI Tools & Platforms**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,sklearn" />
+  <br/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IFTI-KAR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://streak-stats.demolab.com?user=IFTI-KAR&theme=tokyonight&hide_border=true" />
@@ -57,8 +72,6 @@
 ---
 
 ### 📌 Pinned Projects
-
-
 <p align="center">
   <a href="https://github.com/IFTI-KAR/BRAC-University-Thesis-Portal">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=IFTI-KAR&repo=BRAC-University-Thesis-Portal&theme=tokyonight&hide_border=true" />
@@ -67,6 +80,7 @@
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=IFTI-KAR&repo=Fitness_Tracker_Client_Server&theme=tokyonight&hide_border=true" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/IFTI-KAR/Blogar-a-blog-site-client">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=IFTI-KAR&repo=Blogar-a-blog-site-client&theme=tokyonight&hide_border=true" />
