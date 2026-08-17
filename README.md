@@ -24,7 +24,6 @@
 - 🎓 Student — Computer Science
 - 💻 MERN Stack Developer & ML Learner
 - 🔭 Currently building projects in Next.js, ML, and Compiler Design
-- ⚡ Fun fact: I like turning ideas into working apps overnight
 
 ---
 
